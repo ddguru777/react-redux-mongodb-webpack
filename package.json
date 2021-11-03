@@ -46,7 +46,7 @@
     "redux-thunk": "^2.2.0",
     "reselect": "^3.0.0",
     "styled-components": "^1.4.5",
-    "validator": "^7.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
